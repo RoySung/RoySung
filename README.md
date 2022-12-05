@@ -29,12 +29,8 @@
 </p>
 
 <h2 align="center">📕 Latest Blog Posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
-- [技術好聞#2022/11/25 — 求職之旅](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-11-25-%E6%B1%82%E8%81%B7%E4%B9%8B%E6%97%85-baeac75648dc?source=rss-49875306e456------2)
-- [技術好聞#2022/10/12 — Hubris !](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-10-12-hubris-f56e2f8501b6?source=rss-49875306e456------2)
-- [技術好聞#2022/10/05 — Apollo](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-10-05-apollo-ce531c1647c7?source=rss-49875306e456------2)
-- [2022/10/01 — 工程師很需要療癒小物](https://medium.com/i-%E7%99%BC%E5%AE%A2/2022-10-01-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%BE%88%E9%9C%80%E8%A6%81%E7%99%82%E7%99%92%E5%B0%8F%E7%89%A9-af31c90048b2?source=rss-49875306e456------2)
-- [2022/09/28 — 這聽起來不錯對吧](https://medium.com/i-%E7%99%BC%E5%AE%A2/2022-09-28-%E9%80%99%E8%81%BD%E8%B5%B7%E4%BE%86%E4%B8%8D%E9%8C%AF%E5%B0%8D%E5%90%A7-c996068d95a6?source=rss-49875306e456------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
