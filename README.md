@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">I’m RoySung, A Software Developer.<br><br> <img src="https://komarev.com/ghpvc/?username=RoySung&style=for-the-badge"> </h1>
 
 <!--
 **RoySung/RoySung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
