@@ -38,9 +38,12 @@
 - [2022/09/28 — 這聽起來不錯對吧](https://medium.com/i-%E7%99%BC%E5%AE%A2/2022-09-28-%E9%80%99%E8%81%BD%E8%B5%B7%E4%BE%86%E4%B8%8D%E9%8C%AF%E5%B0%8D%E5%90%A7-c996068d95a6?source=rss-49875306e456------2)
 <!-- BLOG-POST-LIST:END -->
 
+<a href="https://medium.com/@roysunghan" target="_blank">➡️ [more posts...]</a>
+
 <!--
 References:
 - badges
   1. https://github.com/antonkomarev/github-profile-views-counter
-  2. 
+- actions
+  1. https://github.com/gautamkrishnar/blog-post-workflow
 -->
