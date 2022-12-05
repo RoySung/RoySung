@@ -1,5 +1,15 @@
 <h1 align="center">I’m RoySung, A Software Developer.<br><br> <img src="https://komarev.com/ghpvc/?username=RoySung&style=for-the-badge"> </h1>
 
+<h2 align="center">About Me</h2>
+
+- 👨‍💻 [My profile with more detail.](https://www.notion.so/roysung/I-m-RoySung-A-Software-Developer-e8684d64f110416da9f40f28d5938bd2)
+- 📫 How to reach me **roysunghan@gmail.com**
+
+<h3 align="center">My Social Media</h3>
+
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roy-sung/)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@roysunghan)
+
 <h2 align="center">My Skills<h1>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
