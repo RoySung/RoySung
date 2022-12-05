@@ -43,7 +43,8 @@
 <!--
 References:
 - badges
-  1. https://github.com/antonkomarev/github-profile-views-counter
+  1. https://github.com/alexandresanlim/Badges4-README.md-Profile
+  2. https://github.com/antonkomarev/github-profile-views-counter
 - actions
   1. https://github.com/gautamkrishnar/blog-post-workflow
 -->
