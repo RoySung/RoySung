@@ -28,6 +28,10 @@
   <img alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" />
 </p>
 
+<h2 align="center">📕 Latest Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 References:
 - badges
