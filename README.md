@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 👨‍💻 [My profile with more detail.](https://www.notion.so/roysung/I-m-RoySung-A-Software-Developer-e8684d64f110416da9f40f28d5938bd2)
+- 👨‍💻 [My profile with more detail.](https://roysung.notion.site/)
 - 📫 How to reach me **roysunghan@gmail.com**
 
 <h3 align="center">My Social Media</h3>
