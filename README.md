@@ -31,11 +31,11 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [RO 番茄鐘（ Ro Pomodoro Timer） —  介紹](https://medium.com/@roysunghan/ro-%E7%95%AA%E8%8C%84%E9%90%98-ro-pomodoro-timer-%E4%BB%8B%E7%B4%B9-2ed8b7bfe533?source=rss-49875306e456------2)
 - [技術好聞  #2022/12/23 — Sharp Tools make good work.](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-12-23-sharp-tools-make-good-work-2717257e219f?source=rss-49875306e456------2)
 - [技術好聞#2022/12/08 — ChatGPT 好神，484要失業了  ?!](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-12-08-ai-%E5%A5%BD%E7%A5%9E-484%E8%A6%81%E5%A4%B1%E6%A5%AD%E4%BA%86-ec0548aa5adc?source=rss-49875306e456------2)
 - [技術好聞#2022/11/25 — 求職之旅](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-11-25-%E6%B1%82%E8%81%B7%E4%B9%8B%E6%97%85-baeac75648dc?source=rss-49875306e456------2)
 - [技術好聞#2022/10/12 — Hubris !](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-10-12-hubris-f56e2f8501b6?source=rss-49875306e456------2)
-- [技術好聞#2022/10/05 — Apollo](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2022-10-05-apollo-ce531c1647c7?source=rss-49875306e456------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://medium.com/@roysunghan" target="_blank">➡️ [more posts...]</a>
