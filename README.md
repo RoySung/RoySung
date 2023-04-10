@@ -31,7 +31,7 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [技術好聞  #2023/03/30 — AI 不會取代你的工作，取代的是不會用 AI 的你](https://medium.com/@roysunghan/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2023-03-30-ai-%E4%B8%8D%E6%9C%83%E5%8F%96%E4%BB%A3%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C-%E5%8F%96%E4%BB%A3%E7%9A%84%E6%98%AF%E4%B8%8D%E6%9C%83%E7%94%A8-ai-%E7%9A%84%E4%BD%A0-98b94e176478?source=rss-49875306e456------2)
+- [技術好聞  #2023/03/30 — AI 不會取代你的工作，取代的是不會用 AI 的你](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2023-03-30-ai-%E4%B8%8D%E6%9C%83%E5%8F%96%E4%BB%A3%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C-%E5%8F%96%E4%BB%A3%E7%9A%84%E6%98%AF%E4%B8%8D%E6%9C%83%E7%94%A8-ai-%E7%9A%84%E4%BD%A0-98b94e176478?source=rss-49875306e456------2)
 - [技術好聞  #2023/02/12 — DX&lpar;Developer Experience&rpar;](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2023-02-12-dx-developer-experience-9042390c19f9?source=rss-49875306e456------2)
 - [技術好聞  #2023/01/26 — : 新年快樂 !](https://medium.com/i-%E7%99%BC%E5%AE%A2/%E6%8A%80%E8%A1%93%E5%A5%BD%E8%81%9E-2023-01-26-%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82-9059312f122?source=rss-49875306e456------2)
 - [RO 番茄鐘（ Ro Pomodoro Timer） —  介紹](https://medium.com/@roysunghan/ro-%E7%95%AA%E8%8C%84%E9%90%98-ro-pomodoro-timer-%E4%BB%8B%E7%B4%B9-2ed8b7bfe533?source=rss-49875306e456------2)
